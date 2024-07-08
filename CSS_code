@@ -1,0 +1,28 @@
+h1, h2 {
+    text-align: center;
+}
+h2 {
+    color: red;
+}
+thead {
+    background-color: violet;
+    font-weight: bold;.
+}
+table {
+    margin: 0 auto; 
+}
+.code {
+    background-color: beige;
+}
+table {
+    border: 2px solid violet;
+    width: 700px;
+    box-sizing: border-box;
+    border-collapse: separate;
+    border-spacing: 0px;
+    display: table;
+}
+tr {
+    border-right: white;
+    border-left: white;
+}
